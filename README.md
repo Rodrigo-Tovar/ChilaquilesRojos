@@ -19,6 +19,10 @@ Baseline de Ciberseguridad Aplicada en Java 21 y Spring Boot 3. Incluye API HTTP
 
 No publiques matrículas, correos o teléfonos. Los roles rotan por unidad.
 
+### Entregables
+
+- [Avance Unidad 1](docs/avance-u1.md)
+
 ## Requisitos y ejecución
 
 - JDK 21. No es necesario instalar Maven globalmente.
